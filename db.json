@@ -8,10 +8,8 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
+  "profile": {https://github.com/Ftates/ERC-SOS/projects
     "name": "typicode"
   }
 }
 
-
-//pull from server at :   http://my-json-server.typicode.com/Ftates/ERC-SOS
