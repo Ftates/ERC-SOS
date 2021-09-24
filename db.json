@@ -1,26 +1,25 @@
 {
-  "BOIS":
-
-[
-  {
-    "id": 0,
-    "description": "Beeg",
-    "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-    "name": "BeegBoi 0"
-  },
-  {
-    "id": 1,
-    "description": "My NFT",
-    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-    "name": "BeegBoi 1"
-  },
-  {
-    "id": 2,
-    "description": "My NFT",
-    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-    "name": "BeegBoi 2"
-  }
-]
+  "BOIS": [
+  
+   {
+     "id": 0,
+     "description": "Beeg",
+     "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+     "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+     "name": "BeegBoi 0"
+   },
+   {
+     "id": 1,
+     "description": "My NFT",
+     "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+     "name": "BeegBoi 1"
+   },
+   {
+     "id": 2,
+     "description": "My NFT",
+     "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+     "name": "BeegBoi 2"
+   }
+ ]
 
 }
